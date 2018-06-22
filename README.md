@@ -1,2 +1,2 @@
 # LinearRegression
-LinearRegression using Gradient_Dissent
+LinearRegression using Gradient_Descent
